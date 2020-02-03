@@ -2,7 +2,7 @@
 var doCache = true;
 
 // Имя кэша
-var CACHE_NAME = 'react-immun-site-cache';
+var CACHE_NAME = 'react-huangchao-site-cache';
 
 // Очищает старый кэш
 self.addEventListener('activate', event => {
