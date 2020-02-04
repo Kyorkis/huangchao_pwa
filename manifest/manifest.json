@@ -3,12 +3,12 @@
     "name": "Chineese restaurant Huangchao",
     "icons": [
       {
-        "src":"/manifest/icon-192x192.png",
+        "src":"https://kyorkis.github.io/huanghcao_pwa/manifest/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src":"/manifest/icon-512x512.png",
+        "src":"https://kyorkis.github.io/huanghcao_pwa/manifest/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
