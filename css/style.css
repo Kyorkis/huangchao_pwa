@@ -21,6 +21,14 @@
     color:lightblue!important;
 }
 .fa-shopping-cart{
+    font-size:4rem;
+    position:relative;
+}
+.productsCounter{
+    color:red;
+    position:absolute;
+    left:45%;
+    top:10%;
     font-size:2rem;
 }
 .back {
@@ -117,7 +125,6 @@
 
 
 
-
 .bigTextP{
     font-size:2rem
 }
@@ -136,3 +143,4 @@ html,body{
 .bodyWrapper{
     flex:1 0 auto;
 }
+
