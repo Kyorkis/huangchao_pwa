@@ -35,7 +35,6 @@ self.addEventListener('install', function(event) {
                       // Открываем и кэшируем нужные страницы и файлы
                           const urlsToCache = [
                               '',
-                              '/'
 
                           ];
                           cache.addAll(urlsToCache);

@@ -1,4 +1,8 @@
-.headerPhoneSpan a{
+
+.headerPhoneSpanMobile{
+    font-size:0.8rem;
+}
+.headerPhoneSpan,.headerPhoneSpanMobile a{
     cursor:pointer;
     color:white;
   
@@ -20,8 +24,13 @@
 .nav-link:hover{
     color:lightblue!important;
 }
-.fa-shopping-cart{
+
+.shoppingCart{
     font-size:4rem;
+    position:relative;
+}
+.shoppingCartMobile{
+    font-size:2rem;
     position:relative;
 }
 .productsCounter{
@@ -30,6 +39,13 @@
     left:45%;
     top:10%;
     font-size:2rem;
+}
+.productsCounterMobile{
+    color:red;
+    position:absolute;
+    left:45%;
+    top:10%;
+    font-size:1rem;    
 }
 .back {
     flex:0 0 auto;
